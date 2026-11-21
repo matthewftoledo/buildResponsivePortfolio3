@@ -151,4 +151,8 @@ span {
     border: 2px solid var(--main-color);
     font-size: 2.5rem;
     border-radius: 50%;
+    color: (var(--main-color));
+    margin: 3rem 1.5rem 3rem 0;
+    transition: 0.3s ease;
 }
+
