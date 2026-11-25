@@ -182,3 +182,9 @@ span {
     transform: scale(1.05);
     box-shadow: 0 0 25px var(--main-color);
 }
+
+.btn-group {
+    display: flex;
+    align-items: center;
+    gap: 1.5rem;
+}
